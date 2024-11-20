@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(142, 241, 241);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border: 2px solid whitesmoke;
+}
+
+h1 {
+    text-align: center;
+}
+
+li{
+    margin: 5px;
+    padding: 5px;
+}
